@@ -7,7 +7,7 @@
 
 👉🏻Cómo usar este repositorio
 -Clona este repositorio en tu máquina local:
-`git clone https://github.com/tu_usuario/deep-dreams.git`.
+`git clone https://github.com/hache22/deep-dreams.git`.
 
 👉🏻Instala las dependencias necesarias (por ejemplo, TensorFlow, NumPy, etc.):
 `pip install -r requirements.txt`
